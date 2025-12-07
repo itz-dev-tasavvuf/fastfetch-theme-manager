@@ -60,18 +60,27 @@ Auto-detects package managers (apt, pacman, dnf, apk, brew) and suggests missing
 ftm build
 ```
 *Build themes through an intuitive wizard interface*
+<img width="1915" height="791" alt="Screenshot From 2025-12-07 16-32-35" src="https://github.com/user-attachments/assets/998c59ca-d271-48bc-a46f-5d7db3105052" />
+<img width="1915" height="832" alt="Screenshot From 2025-12-07 16-33-02" src="https://github.com/user-attachments/assets/0fff8ca6-8392-495e-b872-49930f0e671a" />
+<img width="1915" height="557" alt="Screenshot From 2025-12-07 16-33-17" src="https://github.com/user-attachments/assets/5ac35dfc-969a-4fff-b834-0821a08b401d" />
+
+
+
 
 ### 🎯 FZF Picker
 ```bash
 ftm pick
 ```
 *Live preview and selection with arrow key navigation*
+<img width="1920" height="1080" alt="Screenshot From 2025-12-07 16-33-49" src="https://github.com/user-attachments/assets/8bd204bb-92c0-48a2-b379-5705473f5cb7" />
+
 
 ### 📂 Theme List
 ```bash
 ftm list
 ```
 *Smart detection of system and user themes*
+
 
 ---
 

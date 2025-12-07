@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-brightgreen.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)](https://github.com/itz-dev-tasavvuf/fastfetch-theme-manager)
+[![AUR version](https://img.shields.io/aur/version/fastfetch-theme-manager?logo=arch-linux)](https://github.com/itz-dev-tasavvuf/fastfetch-theme-manager)
 
 **Created by** [Tasavvuf Gori](https://github.com/itz-dev-tasavvuf) *(itz-dev-tasavvuf)*
 

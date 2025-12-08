@@ -58,7 +58,7 @@ Auto-detects package managers (apt, pacman, dnf, apk, brew) and suggests missing
 
 ### 🛠️ Interactive Theme Builder
 ```bash
-ftm build
+./ftm.py build
 ```
 *Build themes through an intuitive wizard interface*
 <img width="1915" height="791" alt="Screenshot From 2025-12-07 16-32-35" src="https://github.com/user-attachments/assets/998c59ca-d271-48bc-a46f-5d7db3105052" />
@@ -70,7 +70,7 @@ ftm build
 
 ### 🎯 FZF Picker
 ```bash
-ftm pick
+./ftm.py pick
 ```
 *Live preview and selection with arrow key navigation*
 <img width="1920" height="1080" alt="Screenshot From 2025-12-07 16-33-49" src="https://github.com/user-attachments/assets/8bd204bb-92c0-48a2-b379-5705473f5cb7" />
@@ -78,7 +78,7 @@ ftm pick
 
 ### 📂 Theme List
 ```bash
-ftm list
+./ftm.py list
 ```
 *Smart detection of system and user themes*
 
@@ -112,13 +112,13 @@ chmod +x install.sh
 ---
 
 ## 📖 Usage
-
+Pure Python 3 using only the standard library. No pip install required.
 ### 1️⃣ Build a New Theme
 
 Create a theme from scratch using the interactive wizard:
 
 ```bash
-ftm build
+./ftm.py build
 ```
 
 ### 2️⃣ Pick a Theme Visually
@@ -126,21 +126,21 @@ ftm build
 Browse and preview themes instantly with arrow keys:
 
 ```bash
-ftm pick
+./ftm.py pick
 ```
 
 ### 3️⃣ Manage Themes
 
 ```bash
 # List all detected themes
-ftm list
+./ftm.py list
 
 # Set a specific theme (by name or path)
-ftm set neofetch
-ftm set my-custom-theme
+./ftm.py set neofetch
+./ftm.py set my-custom-theme
 
 # Reset to default configuration
-ftm reset
+./ftm.py reset
 ```
 
 ### 4️⃣ Download Community Packs
